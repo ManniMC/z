@@ -1,0 +1,44 @@
+{
+  "bot-account": {
+    "username": "11manni11s@gmail.com",
+    "password": "",
+    "type": "microsoft"
+  },
+
+  "server": {
+    "ip": "Donutsmp.net",
+    "port": 25565,
+    "version": "1.18.2"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": "12345678"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": false,
+      "repeat-delay": 100,
+
+      "messages": ["Đang afk bổng thấy mình quá đẹp trai"]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 31000
+  }
+}
